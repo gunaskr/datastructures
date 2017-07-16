@@ -1,0 +1,27 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "datastructures implemntation in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunaskr/datastructures.git"
+  },
+  "keywords": [
+    "datastructures",
+    "node",
+    "testing"
+  ],
+  "author": "Gunasekar. A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunaskr/datastructures/issues"
+  },
+  "homepage": "https://github.com/gunaskr/datastructures#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
